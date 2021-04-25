@@ -1,4 +1,7 @@
 numpy
 pandas
-maplotlib
+matplotlib
 seaborn
+gunicorn
+sklearn
+Flask
