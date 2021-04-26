@@ -6,3 +6,4 @@ jupyterlab_code_formatter
 gunicorn
 sklearn
 Flask
+flask_cors
