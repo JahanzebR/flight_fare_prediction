@@ -2,6 +2,7 @@ numpy
 pandas
 matplotlib
 seaborn
+jupyterlab_code_formatter
 gunicorn
 sklearn
 Flask
